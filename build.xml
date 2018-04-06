@@ -6,6 +6,10 @@
 	<delete dir="exe"/>
 </target>
 
+<target name="test" >
+
+</target>
+
 
 <target name="compile" depends="clean">
 	<mkdir dir="bin"/>
